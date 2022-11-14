@@ -1,0 +1,2 @@
+# Trabalho de conclusão de curso - engenharia da computação - PUC-GO
+hibridização de duas meta-heuristicas (Algoritmo genetico e simulated annealing) para solução do PRV-SAEVs (problema de roteamento de veiculos - sistema de compartilhamento de carros autonomos e elétricos). Objetivo desde algoritmo é encontrar uma combinação de quais estações e qual tamanho da frota que resolva o problema dentro das restrições impostas, com o menor custo diario possivel.
